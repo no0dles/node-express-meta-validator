@@ -1,0 +1,3 @@
+--compilers ts:ts-node/register
+--require test/mocha.env.js
+src/**/*.ts
