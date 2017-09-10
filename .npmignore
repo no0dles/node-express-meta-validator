@@ -1,0 +1,7 @@
+src
+test
+node_modules
+
+.drone.yml
+.gitignore
+tsconfig.json

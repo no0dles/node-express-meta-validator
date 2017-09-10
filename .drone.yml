@@ -1,0 +1,12 @@
+pipeline:
+  build:
+    image: node:8.4.0
+    commands:
+      - yarn install
+      - yarn build
+
+  build:
+    image: node:8.4.0
+    commands:
+      - yarn install
+      - yarn test
