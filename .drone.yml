@@ -5,7 +5,7 @@ pipeline:
       - yarn install
       - yarn build
 
-  build:
+  test:
     image: node:8.4.0
     commands:
       - yarn install
