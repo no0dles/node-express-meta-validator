@@ -1,6 +1,7 @@
 src
 test
 node_modules
+.idea
 
 .drone.yml
 .gitignore

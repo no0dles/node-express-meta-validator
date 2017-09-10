@@ -9,3 +9,4 @@ export * from './regex.decorator';
 export * from './boolean.decorator';
 export * from './integer.decorator';
 export * from './float.decorator';
+export * from './map.decorator';
